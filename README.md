@@ -1,12 +1,11 @@
 <div align="center">
 
-# Halo, saya Khalid Lubis 👋
+# Halo, gue Khalid Lubis 👋
 
-### Systems Architect · Senior Network Engineer · Cloud & Infrastructure Enthusiast
+### Ngulik system, network, dan infrastruktur.
 
 <p>
-  Saya membangun fondasi teknologi yang andal—mulai dari infrastruktur cloud,
-  sistem terdistribusi, hingga otomasi dan jaringan.
+  Suka bikin sistem yang rapi, network yang stabil, dan kerjaan yang bisa diautomate.
 </p>
 
 <a href="https://khalid.mesproject.id"><img src="https://img.shields.io/badge/Portfolio-khalid.mesproject.id-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Khalid" /></a>
@@ -14,27 +13,31 @@
 
 </div>
 
-## Tentang saya
+## Sedikit tentang gue
 
-- 📍 Berbasis di **Medan, Indonesia** — terbuka untuk kolaborasi jarak jauh.
-- 🏗️ Berfokus pada **arsitektur sistem**, **cloud infrastructure**, dan **network engineering**.
-- ⚙️ Menyukai sistem yang terukur, aman, mudah dioperasikan, dan siap berkembang.
-- 🤝 Terbuka untuk proyek konsultasi, kontrak, dan diskusi seputar infrastruktur.
+- 📍 Dari **Medan, Indonesia**.
+- 🧠 Lagi banyak main di **system architecture**, **cloud**, dan **networking**.
+- ⚙️ Senang ngerapihin infrastruktur biar aman, stabil, dan nggak bikin pusing.
+- 🤝 Terbuka buat ngobrol atau kolaborasi soal infra dan network.
 
 ## Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,go,react,nextjs,tailwind,docker,kubernetes,terraform,redis,mysql,postgres,linux,git,githubactions&perline=14" alt="TypeScript, Go, React, Next.js, Tailwind CSS, Docker, Kubernetes, Terraform, Redis, MySQL, PostgreSQL, Linux, Git, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,terraform,redis,mysql,postgres,linux,git,githubactions&perline=11" alt="TypeScript, React, Next.js, Tailwind CSS, Terraform, Redis, MySQL, PostgreSQL, Linux, Git, GitHub Actions" />
+  <br />
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiquiti" />
 </p>
 
 <details>
   <summary><b>Bidang yang saya kerjakan</b></summary>
   <br />
 
-  - **Cloud & DevOps** — containerization, orchestration, Infrastructure as Code, dan otomasi deployment.
-  - **System design** — layanan terdistribusi, caching, database reliability, serta observability.
-  - **Network engineering** — desain jaringan, keamanan, dan infrastruktur yang resilient.
-  - **Web engineering** — aplikasi modern dengan TypeScript, React, Next.js, dan Tailwind CSS.
+  - **Cloud & infra** — automation, Infrastructure as Code, dan deployment.
+  - **Network** — desain jaringan, security, MikroTik, Cisco, dan Ubiquiti.
+  - **System design** — service, caching, database, dan observability.
+  - **Web** — TypeScript, React, Next.js, dan Tailwind CSS.
 </details>
 
 ## Aktivitas GitHub
@@ -51,7 +54,7 @@
 ---
 
 <div align="center">
-  <i>Bangun dengan tujuan. Otomatiskan yang berulang. Buat sistem yang tahan lama.</i>
+  <i>Bikin yang rapi, automate yang repetitif, sisanya ngopi. ☕</i>
   <br /><br />
   <a href="https://khalid.mesproject.id">Kunjungi portfolio saya →</a>
 </div>
