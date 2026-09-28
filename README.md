@@ -13,12 +13,18 @@
 
 ## About me
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=0F766E&center=true&vCenter=true&width=760&lines=Designing+systems+that+are+ready+to+grow.;Keeping+infrastructure+reliable+and+manageable.;Making+networks+work+the+way+they+should." alt="System and network engineering focus" />
+
+</div>
+
 Halo, saya **Khalid Lubis**. Saya bekerja di area system architecture, cloud infrastructure, dan network engineering. Fokus saya sederhana: membuat sistem yang stabil, mudah dikelola, dan siap berkembang saat dibutuhkan.
 
-- 📍 Berbasis di **Medan, Indonesia**.
-- 🧩 Menikmati problem solving di sisi aplikasi, server, cloud, dan jaringan.
-- ⚙️ Tertarik pada automasi—biar proses operasional lebih konsisten dan tidak terlalu bergantung pada pekerjaan manual.
-- 🤝 Terbuka untuk berdiskusi atau berkolaborasi soal infrastruktur, network, dan pengembangan sistem.
+- **Based in:** Medan, Indonesia.
+- **Focus:** aplikasi, server, cloud, dan jaringan.
+- **Approach:** automasi untuk proses operasional yang lebih konsisten dan mudah dikelola.
+- **Open to:** diskusi dan kolaborasi seputar infrastruktur, network, dan pengembangan sistem.
 
 ## Tech stack
 
